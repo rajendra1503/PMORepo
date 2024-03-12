@@ -1,0 +1,92 @@
+613122345
+
+
+230627008XUT
+230627008XUT
+
+
+230628000BCA
+
+230628000FCA
+230628000KCA
+
+
+528-20-2300
+Charles Dodgeson
+45, Stone st.
+23233
+rgokhale@snapfinancebpo.com
+021001088
+100000006
+230628000RVA
+230628000RVA
+------------------------------------------------------
+
+
+529301000
+
+Bob Feather
+14, North av.
+23233
+$1250
+314074269
+230628000VVA
+230628000VVA
+------------------------------------------------------
+
+
+529202300
+Clare Jefferson
+rgokhale@snapfinancebpo.com
+23, Owk Street
+$980
+125200057
+110000008
+230628000XVA
+230628000XVA
+-------------------------------------
+
+528282000
+Steve Johns
+rgokhale@snapfinancebpo.com
+17, Park Avenue
+23233
+$860
+062000019
+110000090
+230628001BVA
+230628001CVA
+-------------------------------------
+DIG3-1896
+529299000
+Susan McLaren
+rgokhale@snapfinancebpo.com
+7, Flower Street
+23233
+$1120
+122100024
+100000003
+230628001DVA
+230628001DVA
+230628001FVA => DIG-1897
+--------------------------------------
+DIG-1898
+529291200
+Samuel Clemens
+rgokhale@snapfinancebpo.com
+3, Garden st.
+53665
+$670
+321379850
+100000310
+----------------------------------------
+
+DIG-1898
+529291220
+Sam William
+rgokhale@snapfinancebpo.com
+3, Garden st.
+53665
+$670
+321379850
+100000310
